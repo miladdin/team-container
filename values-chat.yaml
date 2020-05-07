@@ -1,7 +1,7 @@
 # Domain and subdomain for this service:
 app:
   name: chat
-  domain: example.org
+  domain: daahost.com
 
 # Set a username and password for the first administrator account:
 admin:
