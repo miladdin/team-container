@@ -1,7 +1,7 @@
 acme:
   mail: user@example.org
-  production: false
+  production: true
 
 app:
-  name: cloud
-  domain: example.org
+  name: stream
+  domain: daahost.com
